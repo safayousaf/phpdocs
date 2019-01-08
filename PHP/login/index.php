@@ -8,10 +8,10 @@ if(!isset($_SESSION['Login'])){
 <!doctype html>	
 <html>
 	<head>
-	<title>Admin Panel Inteface</title>
+	<title>GITHUB WORKSPACE</title>
 	</head>
 	<body>
-	<h1>Welcome to admin panel</h1>
+	<h1>First GITHUB Workspace Heading</h1>
 	<a href="logout.php">Logout</a>
 	</body>
 </html>
